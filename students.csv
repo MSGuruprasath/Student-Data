@@ -1,6 +1,6 @@
-ID,Name,Math,Science,English,History
-S101,Alice Johnson,92,88,76,84
-S102,Bob Smith,55,60,48,52
-S103,Priya Ramesh,95,97,91,93
-S104,Ravi Kumar,45,50,42,48
-S105,Michael Scott,30,38,35,32
+Name,Math,Science,English,History
+Alice Johnson,92,88,76,84
+Bob Smith,55,60,48,52
+Priya Ramesh,95,97,91,93
+Ravi Kumar,45,50,42,48
+Michael Scott,30,38,35,32
