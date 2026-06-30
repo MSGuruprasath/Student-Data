@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+  <Student>
+    <ID>S1</ID>
+    <Name>Alice Johnson</Name>
+    <Maths>92</Maths>
+    <Science>88</Science>
+    <English>76</English>
+    <History>84</History>
+  </Student>
+  <Student>
+    <ID>S2</ID>
+    <Name>Mark Antony</Name>
+    <Maths>32</Maths>
+    <Science>40</Science>
+    <English>38</English>
+    <History>35</History>
+  </Student>
+</Students>
